@@ -1,5 +1,10 @@
 :root {
-
+    --color-bg-button: #008BFE;
+    --color-primary: #ffffff;
+    --font: "Roboto", sans-serif;
 }
 
+body {
+    font-family: var(--font), serif;
+}
 
